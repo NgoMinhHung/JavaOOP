@@ -15,7 +15,7 @@ public class Ex1 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        Triangle triangle = new Triangle();
+        
         // TODO code application logic here
     }
     
